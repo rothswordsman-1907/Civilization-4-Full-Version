@@ -241,4 +241,4 @@ This repository serves as the official landing page for Civilization 4. The soft
 **Get the most recent version of Civilization 4 today!**
 
 ---
-**Last updated:** 2026-10-15 00:20:06 UTC
+**Last updated:** 2026-10-15 05:40:13 UTC
